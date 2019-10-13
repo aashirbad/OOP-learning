@@ -11,7 +11,6 @@ What is Inheritance
 	Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
 
 	There are some terminologies used in Inheritanec :
-
-```base class :```The class that is inherited is known as base class or super class.
-`child class:` The  class that inherits the property of one class is known as child class.
+	`base class :`The class that is inherited is known as base class or super class.
+	`child class:` The  class that inherits the property of one class is known as child class.
 
