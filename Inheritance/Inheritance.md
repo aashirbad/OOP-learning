@@ -15,14 +15,9 @@ _ _ _
 	There are some terminologies used in Inheritanec :
 
 	 	base class :
-        	The class that is inherited is known as
-            base class or super class or parent class.
+        	The class that is inherited is known as base class or super class or parent class.
 	 	child class :
-        	The  class that inherits the property of one class
-            is known as child class or extened class or sub class.
+        	The  class that inherits the property of one class is known as child class or extened class 	 or sub class.
          reusability :
-         	This can be achieved when we want to create a
-            new class and there is already a class that
-            includes some of the code that we want,
-            we can derive our new class from the existing class.
+         	This can be achieved bwhen we want to create a new class and there is already a class that includes some of the code that we want, we can derive our new class from the existing class.
 
