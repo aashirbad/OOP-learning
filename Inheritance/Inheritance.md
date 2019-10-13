@@ -10,7 +10,9 @@ What is Inheritance
 
 	Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
 
-_ _ _
+
+- - -
+
 
 	There are some terminologies used in Inheritanec :
 
@@ -20,4 +22,25 @@ _ _ _
         	The  class that inherits the property of one class is known as child class or extened class 	 or sub class.
          reusability :
          	This can be achieved bwhen we want to create a new class and there is already a class that includes some of the code that we want, we can derive our new class from the existing class.
+
+- - -
+
+	  The  inheritance is performed by  the help of ==extends== keyword in java.
+  	It connects the child class to the base class.
+    ```
+    class Base 
+    {
+    ...
+    ...
+    ...
+    }
+    class Sub extends Base
+    {
+    ...
+    ...
+    ...
+    }
+    ```
+    	In the above example Base is the super class that inheritated by the child class Sub.
+
 
